@@ -1,1 +1,5 @@
-
+{
+  "name": "Java Quest",
+  "version": "1.0.0",
+  "main": "index.js"
+}
